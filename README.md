@@ -66,12 +66,12 @@ When using this batch file to lock and hide a private folder, there are several 
 
 This batch file utilizes a simple yet effective technique to hide a folder by mimicking a Control Panel item. Let's break down how it accomplishes this:
 
-### Control Panel GUID
+#### Control Panel GUID
 
 The key aspect of this technique is the use of a special GUID (Globally Unique Identifier), specifically `21EC2020-3AEA-1069-A2DD-08002B30309D`. This GUID is associated with the Control Panel in Windows. When appended to a folder name, it triggers a unique behavior in the operating system.
 
 <!-- This section provides an overview of how the batch file works and its key components. -->
-### Mimicking Control Panel Item
+#### Mimicking Control Panel Item
 
 By renaming the folder with the Control Panel GUID and setting its attributes to hidden and system, the batch file makes the folder appear as a Control Panel item to the operating system. This clever trickery allows the folder to be hidden in plain sight, providing a basic form of security through obscurity.
 
