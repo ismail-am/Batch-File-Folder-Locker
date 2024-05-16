@@ -77,9 +77,9 @@ By renaming the folder with the Control Panel GUID and setting its attributes to
 
 ## Important Notes
 
-- If you forget the password used to unlock the folder, you can modify the batch file to update the password. Simply right-click on the `lock_folder.bat` file, select "Edit", and navigate to the "UNLOCK" block. You can then update the password as needed.
+- If you delete the original batch folder, just download the batch file, you can modify the batch file to update the password. Simply right-click on the `lock_folder.bat` file, select "Edit", and navigate to the "UNLOCK" block. You can then update the password as needed.
 - Use this tool responsibly and only on folders containing sensitive information that you wish to protect.
 
 ## Original Source
 
-This code is not my original creation. I found it on various sources online and decided to create
+This code is not my original creation. I found it on various sources online and decided to create a tutorial video and a GitHub repository, explaining it in detail, to share it here. Please refer to the original sources for any licensing information or copyright restrictions.
